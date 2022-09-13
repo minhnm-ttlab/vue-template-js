@@ -2,5 +2,6 @@
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
-  "eslint.validate": ["javascript","typescript","vue"]
+  "eslint.validate": ["javascript","typescript","vue"],
+  "files.eol": "\n"
  }
