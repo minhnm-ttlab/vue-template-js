@@ -1,4 +1,4 @@
-# task-1
+# vue-template
 
 ## Project setup
 ```
